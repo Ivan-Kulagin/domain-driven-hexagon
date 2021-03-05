@@ -1,4 +1,5 @@
 {
-  "collection": "@nestjs/schematicsp",
+  "collection": "@nestjs/schematics",
+>>>>>>> branch1
   "sourceRoot": "src"
 }
