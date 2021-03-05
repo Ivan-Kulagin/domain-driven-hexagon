@@ -1,4 +1,4 @@
 {
-  "collection": "@nestjs/schematics",
+  "collection": "@nestjs/schematicsp",
   "sourceRoot": "src"
 }
