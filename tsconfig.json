@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+  "compilerOptions1": {
     "strict": true,
     "module": "commonjs",
     "declaration": true,
